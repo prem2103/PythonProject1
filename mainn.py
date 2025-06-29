@@ -28,7 +28,7 @@ elif random_number == 2:
 else:
     comp = 'g'
 
-you = input("Your Turn: Snake(s) Water(w) or Gun(g)? ")
+you = input("Your Turn: Choose any one of these  Snake(s) Water(w) or Gun(g): ")
 
 a = gameWin(comp, you)
 
